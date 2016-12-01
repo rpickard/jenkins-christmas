@@ -3,6 +3,10 @@
 body, table, form, input, td, th, p, textarea, select {
   font-family: Verdana,Arial, Helvetica, sans-serif;
 }
+#header {
+    background-color: #090 !important;
+    height: 40px;
+}
 
 #description {
   height: 100px;

@@ -4,6 +4,7 @@ body, table, form, input, td, th, p, textarea, select {
   font-family: Verdana,Arial, Helvetica, sans-serif;
 }
 
-#main-table {
-  background-image: url(image.png) !important;
+#description {
+  height: 380px;
+  background-image: url(https://github.com/rpickard/jenkins-christmas/raw/master/Screen%20Shot%202016-12-01%20at%2018.07.24.png) !important;
 }
